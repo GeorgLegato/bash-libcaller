@@ -1,5 +1,7 @@
 # bash-libcaller (linux, osx)
 
+<img width="802" height="495" alt="image" src="https://github.com/user-attachments/assets/8453b3cc-8ebb-4aa4-9413-7ab1bfd7ff5d" />
+
 **Native, high-performance FFI for Bash.** Call C functions from shared libraries directly in your shell scripts, without writing a single line of C glue code.
 
 ## TL;DR (Quick Start)
