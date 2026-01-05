@@ -7,8 +7,8 @@
 ## TL;DR (Quick Start)
 
 ```bash
-# 1. Build and install the bash builtin
-make clean && make install
+# 1. Build and (optional) install the bash builtin. careful on ox, we brew you some ;-)
+make clean all && make install
 
 # 2. Generate bindings (Linux example)
 cd examples/raylib-linux && ./speedrun.bash && cd -
