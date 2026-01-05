@@ -1,0 +1,29 @@
+# Build artifacts
+bin/
+*.o
+*.so
+
+# Temporary files
+*.tmp
+*.temp
+*.aux
+*.i
+*.swp
+*~
+
+# Generated headers (optional, but good to ignore if generated)
+*.bash.h
+*.libash
+
+# Raylib example artifacts
+examples/raylib/
+examples/raylib-linux/run_raylib.sh
+examples/Bashout/assets/*.wav
+examples/raylib-speedrun/raylib-*/
+examples/raylib-speedrun/*.tar.gz
+
+# macOS Speedrun artifacts
+examples/raylib-osx-build/
+examples/bash-*/
+examples/bash-*.tar.gz
+examples/raylib-osx/run_raylib.sh
