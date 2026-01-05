@@ -7,7 +7,7 @@
 ## TL;DR (Quick Start)
 
 ```bash
-# 1. Build and (optional) install the bash builtin. careful on ox, we brew you some ;-)
+# 1. Build and (optional) install the bash builtin, be careful on OSX, we brew you some ;-)
 make clean all && make install
 
 # 2. Generate bindings (Linux example)
